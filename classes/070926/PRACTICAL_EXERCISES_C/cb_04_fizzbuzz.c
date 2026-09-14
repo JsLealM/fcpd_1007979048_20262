@@ -2,7 +2,7 @@
  * @file cb_04_fizzbuzz.c
  * @brief Basic Exercise of FizzBuzz in C.
  * @author Johan Leal
- * @date 2026-07-09
+ * @date 2026-09-07
  */
 
 #include <stdio.h>

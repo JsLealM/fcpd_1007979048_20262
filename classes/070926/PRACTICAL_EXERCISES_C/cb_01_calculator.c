@@ -2,7 +2,7 @@
  * @file cb_01_calculator.c
  * @brief Basic Exercise of calculator in C.
  * @author Johan Leal
- * @date 2026-07-09
+ * @date 2026-09-07
  */
 
 #include <stdio.h>

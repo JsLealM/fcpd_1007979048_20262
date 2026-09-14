@@ -2,7 +2,7 @@
  * @file cb_03_area_perimeter_rectangle.c
  * @brief Basic Exercise of Area and Perimeter of a Rectangle in C.
  * @author Johan Leal
- * @date 2026-07-09
+ * @date 2026-09-07
  */
 
 #include <stdio.h>

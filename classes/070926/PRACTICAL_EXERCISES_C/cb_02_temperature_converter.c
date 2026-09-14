@@ -2,7 +2,7 @@
  * @file cb_02_temperature_converter.c
  * @brief Basic Exercise of Temperature Converter in C.
  * @author Johan Leal
- * @date 2026-07-09
+ * @date 2026-09-07
  */
 
 #include <stdio.h>
