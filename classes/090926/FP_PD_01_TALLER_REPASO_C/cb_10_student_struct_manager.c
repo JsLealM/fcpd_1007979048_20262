@@ -28,7 +28,7 @@ void average_student (Student *student){
 }
 
 void print_approved (Student *students, int size, float approved_grade){
-    printf("Estudiantes que aprobaron:\n");
+    printf("Students who approved:\n");
     for (int i = 0; i < size; i++){
         if(students[i].average >= approved_grade){
             printf("Student: %s with average %.2f\n", students[i].name, students[i].average);
@@ -39,13 +39,13 @@ void print_approved (Student *students, int size, float approved_grade){
 int main(){
 
     int size;
-    printf("Cuantos estudiantes quieres ingresar: ");
+    printf("How many students do you want to add: ");
     scanf("%d", &size);
 
     Student *students = (Student *) malloc(size * sizeof(Student));
 
     if (students == NULL){
-        printf("Error reservando memoria\n");
+        printf("Error reserving memory\n");
         return 1;
     }
 
